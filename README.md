@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![License](https://img.shields.io/github/license/yourusername/breast-cancer-eda)
+![License](https://img.shields.io/github/license/AMMAR1122-LG/Real-World-EDA-Visualization)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 > 🔬 A comprehensive exploratory data analysis (EDA) on the Breast Cancer Wisconsin (Diagnostic) dataset to uncover patterns and prepare the ground for future machine learning models. This project aims to visualize the hidden structure, clean the data, and extract meaningful insights from medical attributes.
@@ -80,3 +80,6 @@ Each sample includes computed metrics like:
    - Proposed normalization and scaling for future modeling
 
 ---
+
+🔗 **GitHub**: [https://github.com/AMMAR1122-LG]
+🔗 **LinkedIn**: [https://www.linkedin.com/in/muhammad-ammar-zahid-b91124268/]  
