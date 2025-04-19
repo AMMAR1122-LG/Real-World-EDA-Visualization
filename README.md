@@ -70,7 +70,8 @@ Each sample includes computed metrics like:
 3. **Correlation Matrix**
    - Identified strong correlations between radius, perimeter, and area
   
-     ![Sightings Overview](https://github.com/AMMAR1122-LG/Sightings_PowerBI_Dashboard/blob/main/images/Sightigs%20Dashboad.png)
+     ![Heatmap Overview](https://github.com/AMMAR1122-LG/Real-World-EDA-Visualization/blob/main/images/Heatmap.png)
+     ![BoxPlot](https://github.com/AMMAR1122-LG/Real-World-EDA-Visualization/blob/main/images/BoxPlot.png)
 
 4. **Boxplots & Distributions**
    - Spotted outliers in radius and texture
@@ -83,4 +84,5 @@ Each sample includes computed metrics like:
 ---
 
 🔗 **GitHub**: [(https://github.com/AMMAR1122-LG)]
+
 🔗 **LinkedIn**: [(https://www.linkedin.com/in/muhammad-ammar-zahid-b91124268/] 
