@@ -71,11 +71,13 @@ Each sample includes computed metrics like:
    - Identified strong correlations between radius, perimeter, and area
   
      ![Heatmap Overview](https://github.com/AMMAR1122-LG/Real-World-EDA-Visualization/blob/main/images/Heatmap.png)
-     ![BoxPlot](https://github.com/AMMAR1122-LG/Real-World-EDA-Visualization/blob/main/images/BoxPlot.png)
+  
 
 4. **Boxplots & Distributions**
    - Spotted outliers in radius and texture
    - Observed skewness in symmetry and fractal dimensions
+  
+        ![BoxPlot](https://github.com/AMMAR1122-LG/Real-World-EDA-Visualization/blob/main/images/BoxPlot.png)
 
 5. **Feature Engineering Ideas**
    - Highlighted potential redundant features for ML pruning
